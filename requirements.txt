@@ -1,0 +1,10 @@
+pandas 
+numpy
+sklearn
+plotly 
+matplotlib
+nbformat
+minisom
+dtreeviz
+python-igraph
+deap

@@ -1,0 +1,8 @@
+lit/
+lore/
+*.DS_Store
+figures/
+.idea/
+.ipynb_checkpoints/
+proposals/
+.pickle
